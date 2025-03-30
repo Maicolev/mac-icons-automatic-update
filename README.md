@@ -1,7 +1,27 @@
 # Update Icons Script
 
 ## Sample image
-<img width="2556" alt="Screenshot 2025-03-30 at 11 39 40" src="https://github.com/user-attachments/assets/730c90ef-8aa0-425a-b048-55d1e2c96f81" />
+
+<img width="2556" alt="Screenshot 2025-03-30 at 11 44 01" src="https://github.com/user-attachments/assets/e15041f2-221a-4362-bcbf-a73ad7842a77" />
+
+Icons edited:
+  - WhatsApp
+  - Teams
+  - Slack
+  - Messages
+  - Mail
+  - Photos
+  - FaceTime
+  - Pages
+  - IINA
+  - Spotify
+  - OBS
+  - DataGrip
+  - Visual Studio Code
+  - IntelliJ IDEA
+  - WebStorm
+  - Internal and external disks
+
 
 ## Overview
 
