@@ -1,5 +1,8 @@
 # Update Icons Script
 
+## Sample image
+<img width="2556" alt="Screenshot 2025-03-30 at 11 39 40" src="https://github.com/user-attachments/assets/730c90ef-8aa0-425a-b048-55d1e2c96f81" />
+
 ## Overview
 
 This script automates the process of replacing the default icons of Spotify, Slack, and Warp applications on macOS with custom icons. It updates both the internal application resources and the Finder alias icons.
