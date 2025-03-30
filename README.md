@@ -88,7 +88,7 @@ osascript /path/to/your/script.scpt
 
 ## Repository
 
-Find the project on GitHub: [Mac-icons-update](https://github.com/Maicolev/Mac-icons-update.git)
+Find the project on GitHub: [mac-icons-automatic-update](https://github.com/Maicolev/mac-icons-automatic-update.git)
 
 ## License
 
