@@ -58,18 +58,22 @@ This script automates the process of replacing the default icons of Spotify, Sla
 3. Copy and paste the script contents.
 4. Save the application and execute it.
 
-### Running from Terminal
 
-```sh
-osascript /path/to/your/script.scpt
-```
+### Running from Automator app (recommended for only one use)
+1. In the automator app press run button
 
-### Running at Startup
+### Running at Startup (Recommended if apps are constantly updated)
 
 To run the script automatically at system startup:
 1. Place the `script.app` inside the `/Applications` folder.
 2. Go to **System Settings** > **Users & Groups** > **Login Items**.
 3. Add the script application to the list.
+
+### Running from Terminal
+
+```sh
+osascript /path/to/your/script.scpt
+```
 
 ## Notes
 
