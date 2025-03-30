@@ -21,6 +21,7 @@ Icons edited:
   - IntelliJ IDEA
   - WebStorm
   - Internal and external disks
+<img width="2560" alt="Screenshot 2025-03-30 at 11 55 07" src="https://github.com/user-attachments/assets/d2a6f3e6-16de-40fa-8fc3-2123c402e77d" />
 
 
 ## Overview
