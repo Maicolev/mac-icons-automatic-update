@@ -77,6 +77,9 @@ To run the script automatically at system startup:
 - If the Dock icon does not update, try removing and re-adding the application to the Dock.
 - The Finder cache might need a refresh; restarting macOS can help.
 - For **system applications**, the process is different, and an update with these steps will be provided soon.
+<img width="507" alt="Screenshot 2025-03-30 at 12 03 06" src="https://github.com/user-attachments/assets/22144e22-7d98-4f9d-abef-6e00a72dd9a1" />
+
+  
 
 ## Repository
 
